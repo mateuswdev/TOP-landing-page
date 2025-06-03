@@ -1,1 +1,1 @@
-# TOP-landing-page
+In this project I'll be testing the flexbox skills learned on TOP by creating a landing page from scratch.
