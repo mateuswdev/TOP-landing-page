@@ -15,7 +15,7 @@ ul {
     padding: 0;
     display: flex;
     padding: 10px;
-    padding-right: 90px;
+    padding-right: 100px;
     gap: 15px;
 }
 
@@ -43,7 +43,7 @@ button {
     font-size: 18px;
     color: #e5e7eb;
     padding: 10px;
-    padding-left: 90px;
+    padding-left: 100px;
 }
 
 .logo {
@@ -59,7 +59,7 @@ button {
     justify-content: space-between;
     align-items: center;
     gap: 25px;
-    padding: 100px;
+    padding: 110px;
 }
 
 .hero-txt{
@@ -93,13 +93,33 @@ button {
 
 .content {
     display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 50px;
+    padding: 40px;
+}
+
+.info {
+    display: flex;
+    width: 250px;
+    height: 500px;
+    flex-wrap: wrap;
 }
 
 .memo-head {
-    display: flex;
     justify-self: center;
     align-self: center;
+    padding: 40px;
     font-weight: 900;
     font-size: 36px;
     color: #1f2937;
+}
+
+.memo-img {
+    background-color: #f9faf8;
+    border-radius: 8px;
+    border-color: #3882f6;
+    border-width: 5px;
+    border-style: solid;
+    flex: 1;
 }
