@@ -90,6 +90,7 @@ button {
     flex: 1;
     max-width: 500px;
     align-self: stretch;
+    justify-items: center;
     align-content: center;
     
 }
