@@ -123,3 +123,7 @@ button {
     border-style: solid;
     flex: 1;
 }
+
+.quote {
+    background-color: #e5e7eb;
+}
