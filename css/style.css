@@ -1,6 +1,9 @@
 @font-face {
     font-family: Roboto;
     src: url(Roboto-Regular.ttf);
+
+    font-family: Roboto-Italic;
+    src: url(Roboto-LightItalic.ttf)
 }
 
 body {
@@ -126,4 +129,10 @@ button {
 
 .quote {
     background-color: #e5e7eb;
+}
+
+.quote-txt{
+    font-size: 36px;
+    color: #1f2937;
+    font-family: Roboto-Italic;
 }
