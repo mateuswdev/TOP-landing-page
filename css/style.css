@@ -164,7 +164,8 @@ button {
     padding: 50px;
     border-radius: 8px;
     justify-content: center;
-    gap: 200px;
+    align-items: center;
+    gap: 300px;
 }
 
 .action-hold {
@@ -184,12 +185,13 @@ button {
 }
 
 .one {
-   background-color: #3882f6;
+    background-color: #3882f6;
     color: #f9faf8;
     border-radius: 8px;
     font-size: 16px;
     font-weight: 600;
     text-decoration: none;
+    white-space: nowrap;
     padding: 8px 33px;
     border-color: #f9faf8;
     border-style: solid;
