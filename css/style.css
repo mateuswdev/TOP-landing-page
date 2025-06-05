@@ -154,13 +154,46 @@ button {
 }
 
 .action-con {
+    
     padding: 110px;
 }
 
 .action {
     display: flex;
     background-color: #3882f6;
+    padding: 50px;
     border-radius: 8px;
+    justify-content: center;
+    gap: 200px;
+}
+
+.action-hold {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.action-head {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.action-sec {
+    color: #e5e7eb;
+}
+
+.one {
+   background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 8px 33px;
+    border-color: #f9faf8;
+    border-style: solid;
+    border-width: 2px;
 }
 
 .footer {
