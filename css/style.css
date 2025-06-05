@@ -154,9 +154,11 @@ button {
 }
 
 .action-con {
-    margin: 100px;
+    padding: 110px;
 }
 
 .action {
+    display: flex;
     background-color: #3882f6;
+    border-radius: 8px;
 }
