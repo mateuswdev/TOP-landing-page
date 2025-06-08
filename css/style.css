@@ -86,7 +86,7 @@ button {
 .img-hold {
     color: #f9faf8;
     font-size: 18px;
-    background-color: #6d747d;
+    /*background-color: #6d747d;*/
     flex: 1;
     max-width: 500px;
     align-self: stretch;
